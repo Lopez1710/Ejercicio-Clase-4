@@ -36,17 +36,20 @@ public class JavaApplication1 {
 //            System.out.println("Incorrecto");
 //        }
 //        
-        Numeros nm = new Numeros();
-        Decicion Dc = new Decicion();
-        
-        nm.setNumero1(-2);
-        nm.setNumero2(-2);
-        
-        
-        
-      
-        // TODO code application logic here
-        Dc.decicion(nm);
+//        Numeros nm = new Numeros();
+//        Decicion Dc = new Decicion();
+//        
+//        nm.setNumero1(-2);
+//        nm.setNumero2(-2);
+//        
+//        
+//        
+//      
+//        // TODO code application logic here
+//        Dc.decicion(nm);
+
+form fm = new form();
+fm.show();
     }
     
 }
